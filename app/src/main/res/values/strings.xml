@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RaseedyTask</string>
+    <string name="general_network_error">network error</string>
+    <string name="no_response_from_server_text">no response</string>
+    <string name="general_invalid_credentials_error">invalid credentials</string>
+    <string name="general_error">general error</string>
+</resources>
